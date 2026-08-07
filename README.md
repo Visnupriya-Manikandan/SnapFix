@@ -1,8 +1,6 @@
 # SnapFix
 
-AI-powered civic issue reporting — photograph a problem, and AI classifies the issue type, scores its severity, and routes it to the right municipal department in seconds.
-
-> **Note:** the current HTML file's on-page title/heading still reads "NammaFix" — a leftover from an earlier build. Update those two spots if you want the live demo to match the "SnapFix" branding used in the pitch deck.
+Civic issue reporting — photograph a problem, and AI classifies the issue type, scores its severity, and routes it to the right municipal department in seconds.
 
 ## What it does
 
@@ -59,4 +57,4 @@ This is a **standalone HTML file** — no install, no server, no build process.
 
 ## Roadmap
 
-See the pitch deck's roadmap slide for the phased plan: pilot in one municipality → backend + officer dashboard → scale across Tamil Nadu → replicate to other states.
+Roadmap: pilot in one municipality → backend + officer dashboard → scale across Tamil Nadu → replicate to other states.
